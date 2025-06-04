@@ -32,7 +32,7 @@
 ## 3. データの共有
 
 - 当方は利用者情報を第三者に販売・貸与・交換しません。  
-- Google AdMob による広告配信プロセスで、広告 ID 等が Google または Google AdMob のパートナーと共有される場合があります（広告のパーソナライズおよび不正防止目的）。:contentReference[oaicite:1]{index=1}
+- Google AdMob による広告配信プロセスで、広告 ID 等が Google または Google AdMob のパートナーと共有される場合があります（広告のパーソナライズおよび不正防止目的）。
 
 ---
 
