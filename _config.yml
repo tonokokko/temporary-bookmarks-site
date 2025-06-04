@@ -6,11 +6,6 @@ description: "ヨミットは、スマートフォンでブックマークを保
 url: "https://tonokokko.github.io/yomitto/"
 baseurl: "/yomitto"
 
-# 著者情報
-author:
-  name: "tonokokko"
-  email: "tonokokko@gmail.com"
-
 # Jekyll設定
 markdown: kramdown
 highlighter: rouge

@@ -1,6 +1,6 @@
-# 一時ブックマークアプリ - 製品サイト
+# ヨミット - 製品サイト
 
-スマートフォン向け一時ブックマークアプリの公式製品サイトです。
+ヨミットの公式製品サイトです。
 
 ## 📱 アプリについて
 
@@ -54,16 +54,3 @@
 
 #### アプリストアリンクの追加
 `index.md` の「ダウンロード」セクションで、実際のApp StoreとGoogle Playのリンクに更新してください。
-
-## 📄 ライセンス
-
-このプロジェクトはMITライセンスの下で公開されています。
-
-## 🤝 コントリビューション
-
-プルリクエストやイシューの報告をお待ちしています。
-
-## 📞 サポート
-
-- Email: [support@example.com](mailto:support@example.com)
-- GitHub Issues: [問題を報告](https://github.com/username/repository-name/issues)
