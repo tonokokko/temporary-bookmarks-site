@@ -44,6 +44,10 @@ exclude:
   - node_modules
   - vendor
 
+# 含めるファイル
+include:
+  - app-ads.txt
+
 # 日本語対応
 timezone: Asia/Tokyo
 encoding: utf-8 
