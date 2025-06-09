@@ -10,8 +10,7 @@
 ## ダウンロード
 
 <!-- ここにアプリストアのリンクを追加 -->
-- [App Store](#)
-- [Google Play](#)
+- [Google Play](https://play.google.com/store/apps/details?id=com.yomitto.app)
 
 ## ドキュメント
 
